@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">My Application 1</string>
+    <string name="title_order">My orders</string>
+    <string name="title_neworder">New order</string>
+    <string name="title_settings">Menu</string>
+    <string name="settings">Menu</string>
+    <string name="neworder">New order</string>
+    <string name="order">My orders</string>
+    <string name="pass">Password:</string>
+    <string name="tel">Phone number:</string>
+    <string name="in">Login</string>
+    <string name="no">Don\'t have account?</string>
+    <string name="regis">Register</string>
+    <string name="ins">Прикрепите фото фасада здания</string>
+    <string name="inss">Attach a photo of the room</string>
+    <string name="bit">Domestic premises</string>
+    <string name="sost">Select the condition of the room</string>
+    <string name="rem">Repair</string>
+    <string name="otd">Finishing</string>
+    <string name="typ">Select the type of room</string>
+    <string name="jil">Living space</string>
+    <string name="fi">Full name</string>
+    <string name="adr">Postal address</string>
+    <string name="phone">Phone number</string>
+    <string name="floor">Floor</string>
+    <string name="car">Ordering a car tower</string>
+    <string name="page1">Next page</string>
+    <string name="podhod">Suitable air conditioner</string>
+    <string name="sh">The width of the room</string>
+    <string name="square">The area of the room</string>
+    <string name="lon">The length of the room</string>
+    <string name="scan">Scanning the room</string>
+    <string name="start">To begin</string>
+    <string name="prosmotr">View the air conditioner on the wall in the apartment</string>
+    <string name="jelanie">Choose an air conditioner (optional)</string>
+    <string name="prosmt">Viewing the air conditioner on the wall</string>
+    <string name="menu_login">Enter</string>
+    <string name="menu_logout">%s</string>
+    <string name="MenuProfile">Profile</string>
+    <string name="MenuHelp">Help</string>
+    <string name="MenuExit">Exit</string>
+    <string name="MenuSettings">Settings</string>
+    <string name="MenuEmployee">We invite employees</string>
+    <string name="MenuAboutApp">About the app</string>
+    <string name="MenuWebsite">Our website</string>
+    <string name="MenuAboutUs">About us</string>
+    <string-array name="gender_array">
+        <item>Мужской</item>
+        <item>Женский</item>
+    </string-array>
+    <string-array name="floor_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </string-array>
+    <string name="NumberIsCreate">The application for the specified phone number already exists</string>
+    <string name="FillOn">All fields must be filled in</string>
+    <string name="ExitNotFinish">Are you sure you want to leave without completing the order?</string>
+    <string name="ExitYes">Yes</string>
+    <string name="ExitNo">No</string>
+    <string name="NotFind">The firm and model were not found</string>
+    <string name="LoginYes">Authorization is successful</string>
+    <string name="Error">Invalid credentials</string>
+    <string name="AllFillsMustBe">All fields must be filled in</string>
+    <string name="RegisterYes">Successful registration</string>
+    <string name="SaveLanguage">Save</string>
+    <string name="English">English</string>
+    <string name="Russian">Russian</string>
+    <string name="FullName">Full name</string>
+    <string name="PhoneNumber">Phone number</string>
+    <string name="PostalAddress">Postal address</string>
+    <string name="Floor">Floor</string>
+    <string name="OrderAvtoCar">Ordering a car tower</string>
+    <string name="SquareOfRoom">The area of the room</string>
+    <string name="TypeRoom">Type of the room</string>
+    <string name="ConditionRoom">Condition of the room</string>
+    <string name="ChoosenConder">Selected air conditioner</string>
+    <string name="FinalCost">The total cost of the work</string>
+    <string name="CreateOrder">Make an application</string>
+    <string name="CostOfConder">The cost of an air conditioner</string>
+    <string name="Surname">Surname:</string>
+    <string name="FirstName">Name:</string>
+    <string name="Register">Register</string>
+    <string name="Potronomyc">Enter your middle name</string>
+    <string name="Email">Enter your email address</string>
+    <string name="Address">Address:</string>
+    <string name="Pass">Enter the password</string>
+    <string name="phonenumber">Phone number:</string>
+    <string name="email">Email address</string>
+    <string name="putnumberphone">Enter the phone number</string>
+    <string name="putadress">Enter the address</string>
+    <string name="password">Password:</string>
+    <string name="familia">Enter your last name</string>
+    <string name="patronomyc">Middle name:</string>
+    <string name="name">Enter a name</string>
+    <string name="gender">Gender:</string>
+    <string name="accountyes">Do you have an account?</string>
+    <string name="login">Login</string>
+    <string name="oplata">Payment methods</string>
+    <string name="notification">Notifications</string>
+    <string name="language">Language</string>
+    <string name="passwords">Password</string>
+    <string name="createorders">Create a new application</string>
+    <string name="NumberOrder">Application number: %1$s</string>
+    <string name="PhoneOrder">Phone: %1$s</string>
+    <string name="AddressOrder">Address: %1$s</string>
+    <string name="ConderOrder">Air conditioning: %1$s</string>
+    <string name="CostFinal">Cost: %1$s rubles</string>
+    <string name="StatusOrder">Status: %1$s</string>
+    <string name="rublesorders">rubles</string>
+    <string name="rassmotrenie">Under consideration</string>
+    <string name="Rassmotrena">Reviewed</string>
+    <string name="Potdverzdena">Confirmed</string>
+    <string name="ErrorMessage">Status unknown</string>
+    <string name="DeleteOrder">Deleting an order</string>
+    <string name="SureDelete">Are you sure you want to delete the order %1$s?</string>
+    <string name="ErrorWithPhone">The entered phone number does not match the saved one</string>
+</resources>

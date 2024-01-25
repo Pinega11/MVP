@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission
+        android:name="android.permission.MANAGE_EXTERNAL_STORAGE"
+        tools:ignore="ScopedStorage" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="AeroOrder"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication1"
+        tools:targetApi="31">
+
+        <activity
+            android:name=".ui.login.LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".ui.MainActivity"
+            android:label="">
+
+        </activity>
+
+        <activity
+            android:name=".ui.registration.RegisterActivity"
+            android:label="Регистрация">
+
+        </activity>
+
+        <activity
+            android:name=".ui.neworderpages.PageOneActivity"
+            android:label="Оформление заявки">
+
+        </activity>
+
+        <activity
+            android:name=".ui.neworderpages.PageTwoActivity"
+            android:label="Расчет площади">
+
+        </activity>
+
+        <activity
+            android:name=".ui.neworderpages.PageThreeActivity"
+            android:label="Просмотр кондиционера">
+
+        </activity>
+
+        <activity
+            android:name=".ui.neworderpages.PageFourActivity"
+            android:label="Подтверждение данных">
+
+        </activity>
+
+        <activity
+            android:name=".ui.settings.parameters.SettingsActivity"
+            android:label="Меню --> Параметры">
+
+        </activity>
+
+        <activity
+            android:name=".ui.settings.parameters.language.LanguageActivity"
+            android:label="Меню --> Параметры --> Язык">
+
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_order">
+
+    <fragment
+        android:id="@+id/navigation_order"
+        android:name="com.example.myapplication1.ui.order.OrderFragment"
+        android:label="@string/title_order"
+        tools:layout="@layout/fragment_order" />
+
+    <fragment
+        android:id="@+id/navigation_neworder"
+        android:name="com.example.myapplication1.ui.newOrder.NewOrderFragment"
+        android:label="@string/title_neworder"
+        tools:layout="@layout/fragment_neworder"
+        android:layout_width="match_parent"
+        android:gravity="center" />
+
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="com.example.myapplication1.ui.settings.MenuFragment"
+        android:label="@string/title_settings"
+        tools:layout="@layout/fragment_menu" />
+
+</navigation>

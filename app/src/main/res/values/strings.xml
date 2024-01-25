@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">My Application 1</string>
+    <string name="title_order">Мои заявки</string>
+    <string name="title_neworder">Новая заявка</string>
+    <string name="title_settings">Меню</string>
+    <string name="settings">Меню</string>
+    <string name="neworder">Новая заявка</string>
+    <string name="order">Мои заявки</string>
+    <string name="pass">Пароль:</string>
+    <string name="tel">Номер телефона:</string>
+    <string name="in">Войти</string>
+    <string name="no">Нет аккаунта?</string>
+    <string name="regis">Зарегистрироваться</string>
+    <string name="ins">Прикрепите фото фасада здания</string>
+    <string name="inss">Прикрепите фото помещения</string>
+    <string name="bit">Бытовое помещение</string>
+    <string name="sost">Выберите состояние помещения</string>
+    <string name="rem">Ремонт</string>
+    <string name="otd">Отделка</string>
+    <string name="typ">Выберите тип помещения</string>
+    <string name="jil">Жилое помещение</string>
+    <string name="fi">ФИО</string>
+    <string name="adr">Адрес</string>
+    <string name="phone">Телефон</string>
+    <string name="floor">Этаж</string>
+    <string name="car">Заказ автовышки</string>
+    <string name="page1">Следующая страница</string>
+    <string name="podhod">Подходящий кондиционер</string>
+    <string name="sh">Ширина помещения</string>
+    <string name="square">Площадь помещения</string>
+    <string name="lon">Длина помещения</string>
+    <string name="scan">Сканирование помещения</string>
+    <string name="start">Начать</string>
+    <string name="prosmotr">Посмотреть кондиционер на стене в квартире</string>
+    <string name="jelanie">Выберите кондиционер (по желанию)</string>
+    <string name="prosmt">Просмотр кондиционера на стене</string>
+    <string name="menu_login">Войти</string>
+    <string name="menu_logout">%s</string>
+    <string name="MenuProfile">Профиль</string>
+    <string name="MenuHelp">Помощь</string>
+    <string name="MenuExit">Выйти</string>
+    <string name="MenuSettings">Параметры</string>
+    <string name="MenuEmployee">Приглашаем сотрудников</string>
+    <string name="MenuAboutApp">О приложении</string>
+    <string name="MenuWebsite">Наш сайт</string>
+    <string name="MenuAboutUs">О нас</string>
+    <string name="ErrorWithPhone">Введенный номер телефона не совпадает с сохраненным</string>
+    <string name="NumberIsCreate">Заявка для указанного номера телефона уже существует</string>
+    <string name="FillOn">Все поля должны быть заполнены</string>
+    <string name="ExitNotFinish">Вы уверены, что хотите выйти без завершения заказа?</string>
+    <string name="ExitYes">Да</string>
+    <string name="ExitNo">Нет</string>
+    <string name="NotFind">Фирма и модель не найдены</string>
+    <string name="LoginYes">Авторизация успешна</string>
+    <string name="Error">Неверные учетные данные</string>
+    <string name="AllFillsMustBe">Все поля должны быть заполнены</string>
+    <string name="RegisterYes">Успешная регистрация</string>
+    <string name="SaveLanguage">Сохранить</string>
+    <string name="English">Английский</string>
+    <string name="Russian">Русский</string>
+    <string name="FullName">ФИО</string>
+    <string name="PhoneNumber">Телефон</string>
+    <string name="PostalAddress">Адрес</string>
+    <string name="Floor">Этаж</string>
+    <string name="OrderAvtoCar">Заказ автовышки</string>
+    <string name="SquareOfRoom">Площадь</string>
+    <string name="TypeRoom">Тип помещения</string>
+    <string name="ConditionRoom">Состояние помещения</string>
+    <string name="ChoosenConder">Выбранный кондиционер</string>
+    <string name="FinalCost">Итоговая стоимость работ</string>
+    <string name="CreateOrder">Оформить заявку</string>
+    <string name="CostOfConder">Стоимость кондиционера</string>
+    <string name="Surname">Фамилия:</string>
+    <string name="FirstName">Имя:</string>
+    <string name="Register">Зарегистрироваться</string>
+    <string name="Potronomyc">Введите отчество</string>
+    <string name="Email">Введите email</string>
+    <string name="Address">Адрес:</string>
+    <string name="Pass">Введите пароль</string>
+    <string name="phonenumber">Номер телефона:</string>
+    <string name="email">Почта:</string>
+    <string name="putnumberphone">Введите номер телефона</string>
+    <string name="putadress">Введите адрес</string>
+    <string name="password">Пароль:</string>
+    <string name="familia">Введите фамилию</string>
+    <string name="patronomyc">Отчество:</string>
+    <string name="name">Введите имя</string>
+    <string name="gender">Пол:</string>
+    <string name="accountyes">Есть аккаунт?</string>
+    <string name="login">Войти</string>
+    <string name="oplata">Способы оплаты</string>
+    <string name="notification">Уведомления</string>
+    <string name="language">Язык</string>
+    <string name="passwords">Пароль</string>
+    <string name="createorders">Создать новую заявку</string>
+    <string name="NumberOrder">Номер заявки: %1$s</string>
+    <string name="PhoneOrder">"Телефон: %1$s "</string>
+    <string name="AddressOrder">Адрес: %1$s</string>
+    <string name="ConderOrder">Кондиционер: %1$s</string>
+    <string name="CostFinal">Стоимость: %1$s рублей</string>
+    <string name="StatusOrder">Статус: %1$s</string>
+    <string name="rublesorders">рублей</string>
+    <string name="rassmotrenie">На рассмотрении</string>
+    <string name="Rassmotrena">Рассмотрена</string>
+    <string name="Potdverzdena">Подтверждена</string>
+    <string name="ErrorMessage">Статус неизвестен</string>
+    <string name="DeleteOrder">Удаление заказа</string>
+    <string name="SureDelete">Вы уверены, что хотите удалить заказ %1$s?</string>
+    <string-array name="gender_array">
+        <item>Мужской</item>
+        <item>Женский</item>
+    </string-array>
+    <string-array name="floor_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </string-array>
+</resources>
